@@ -1,0 +1,56 @@
+h1{
+    color: rgb(24, 92, 116 );    
+    font-size: 50px;
+}
+
+div{
+    width: 700px;
+    background-color: rgba(255,255,255, 0.3);
+    text-align: center;
+    margin: 60px auto;
+    padding: 20px 20px;
+    color: rgb(52, 54, 56);
+    border-radius: 10px;
+}
+
+
+body{
+    text-align: center;
+    background-image:url(image/fond2.jpg);
+    background-size: 1920px 1080px;
+}
+
+li{
+    list-style: none;
+    display: inline;
+    margin: 20px;
+}
+#profil{
+    border-radius: 150px;
+    height: 150px;
+    width: 150px;
+}
+
+p{font-size: 20px;}
+
+#BALLE{height: 50px;
+      width: 50px;}
+
+#SCOUT{height: 50px;
+       width: 50px;}
+
+#PHOTO {height: 50px;
+        width: 50px;}
+#NETFLIX{height: 50px;
+        width: 50px;}
+#FB{height: 50px;
+    width: 50px;}
+
+#INSTA{height: 50px;
+       width: 50px;}
+
+#LINKEDIN{height: 50px;
+    width: 50px;}
+
+
+
